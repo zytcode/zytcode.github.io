@@ -55,7 +55,7 @@ education:
   - area: 本科 网络工程
     institution: 山东科技大学
     date_start: 2022-09-03
-    date_end: 2026-06-1
+    date_end: 2026-07-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
