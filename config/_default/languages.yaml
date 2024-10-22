@@ -3,8 +3,8 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-en:
-  languageCode: en-us
+# en:
+#   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
@@ -13,7 +13,7 @@ zh:
  languageCode: zh
  title: 张衍腾的个人网站
  params:
-   description: Site description in Chinese...
+   description: 一个编程爱好者
  menu:
    main:
       - name: Bio
